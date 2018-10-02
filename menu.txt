@@ -1,0 +1,19 @@
+                                                 
+
+	1.Add Money
+
+	2.Balance info
+
+	3.Payments
+
+	4.Money Transfer
+
+	5.Modify Your Details
+	
+	6.About this App
+
+	7.Log Out
+
+
+
+                                                                                                                                 								     

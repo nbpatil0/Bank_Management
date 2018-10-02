@@ -1,0 +1,14 @@
+
+
+
+
+
+                   "WELCOME TO OUR BANK"
+
+
+
+ 		     ARE YOU AN EXISTING USER?
+	     			OR
+	 		A NEW CUSTOMER??
+
+ENTER YOUR CHOICE (E/N/Press ESC to close):
